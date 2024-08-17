@@ -1,0 +1,86 @@
+{
+  "formaciones": [
+    {
+      "id_partido": 1,
+      "titulares": [
+        { "nombre": "Hugo Orlando Gatti", "camiseta": "1", "posicion": "POR" },
+        { "nombre": "Vicente Pernía", "camiseta": "4", "posicion": "DEF" },
+        { "nombre": "José Luis Tesare", "camiseta": "14", "posicion": "DEF" },
+        { "nombre": "Roberto Mouzo", "camiseta": "6", "posicion": "DEF" },
+        { "nombre": "Alberto Tarantini", "camiseta": "3", "posicion": "DEF" },
+        { "nombre": "Jorge Ribolzi", "camiseta": "10", "posicion": "MED" },
+        { "nombre": "Rubén Suñé", "camiseta": "5", "posicion": "MED" },
+        { "nombre": "Mario Zanabria", "camiseta": "18", "posicion": "MED" },
+        { "nombre": "Ernesto Mastrángelo", "camiseta": "7", "posicion": "DEL" },
+        { "nombre": "Carlos Veglio", "camiseta": "9", "posicion": "DEL" },
+        { "nombre": "Darío Felman", "camiseta": "11", "posicion": "DEL" }
+      ]
+    },
+    {
+     "id_partido": 3,
+      "titulares": [
+        { "nombre": "Hugo Orlando Gatti", "camiseta": "1", "posicion": "POR" },
+        { "nombre": "Vicente Pernía", "camiseta": "4", "posicion": "DEF" },
+        { "nombre": "Francisco Sá", "camiseta": "2", "posicion": "DEF" },
+        { "nombre": "Roberto Mouzo", "camiseta": "6", "posicion": "DEF" },
+        { "nombre": "Miguel Ángel Bordón", "camiseta": "3", "posicion": "DEF" },
+        { "nombre": "Jorge José Benítez", "camiseta": "8", "posicion": "MED" },
+        { "nombre": "Rubén Suñé", "camiseta": "5", "posicion": "MED" },
+        { "nombre": "Mario Zanabria", "camiseta": "18", "posicion": "MED" },
+        { "nombre": "Ernesto Mastrángelo", "camiseta": "7", "posicion": "DEL" },
+        { "nombre": "Carlos Horacio Salinas", "camiseta": "17", "posicion": "DEL" },
+        { "nombre": "Hugo Perotti", "camiseta": "22", "posicion": "DEL" }
+      ],
+      "dt": "Juan Carlos Lorenzo"
+    },
+    {
+    "id_partido": 2,
+      "titulares": [
+        { "nombre": "Hugo Orlando Gatti", "camiseta": "1", "posicion": "POR" },
+        { "nombre": "Vicente Pernía", "camiseta": "4", "posicion": "DEF" },
+        { "nombre": "José Luis Tesare", "camiseta": "14", "posicion": "DEF" },
+        { "nombre": "Miguel Ángel Bordón", "camiseta": "3", "posicion": "DEF" },
+        { "nombre": "José María Suárez", "camiseta": "14", "posicion": "DEF" },
+        { "nombre": "Carlos Salinas", "camiseta": "17", "posicion": "MED" },
+        { "nombre": "Rubén José Suñé", "camiseta": "5", "posicion": "MED" },
+        { "nombre": "Mario Zanabria", "camiseta": "18", "posicion": "MED" },
+        { "nombre": "Ernesto Mastrángelo", "camiseta": "7", "posicion": "DEL" },
+        { "nombre": "José Luis Saldaño", "camiseta": "10", "posicion": "DEL" },
+        { "nombre": "Darío Felman", "camiseta": "11", "posicion": "DEL" }
+      ],
+      "dt": "Juan Carlos Lorenzo"
+    },
+     {
+      "id_partido": 4,
+      "titulares": [
+        { "nombre": "Carlos Navarro Montoya", "camiseta": "1", "posicion": "POR" },
+        { "nombre": "Víctor Marchesini", "camiseta": "4", "posicion": "DEF" },
+        { "nombre": "Blas Giunta", "camiseta": "5", "posicion": "MED" },
+        { "nombre": "Claudio Marangoni", "camiseta": "8", "posicion": "MED" },
+        { "nombre": "Juan Simón", "camiseta": "6", "posicion": "DEF" },
+        { "nombre": "Ivar Stafuza", "camiseta": "10", "posicion": "MED" },
+        { "nombre": "Alfredo Graciani", "camiseta": "11", "posicion": "DEL" },
+        { "nombre": "Walter Perazzo", "camiseta": "7", "posicion": "DEL" },
+        { "nombre": "José D. Ponce", "camiseta": "9", "posicion": "DEL" },
+        { "nombre": "Diego Latorre", "camiseta": "19", "posicion": "DEL" }
+      ],
+      "dt": "Alfio Basile"
+    },
+     {
+      "id_partido": 5,
+      "titulares": [
+        { "nombre": "Carlos Navarro Montoya", "camiseta": "1", "posicion": "POR" },
+        { "nombre": "Ivar Stafuza", "camiseta": "4", "posicion": "DEF" },
+        { "nombre": "Juan Simón", "camiseta": "2", "posicion": "DEF" },
+        { "nombre": "Víctor Hugo Marchesini", "camiseta": "6", "posicion": "DEF" },
+        { "nombre": "José Luis Cuciuffo", "camiseta": "3", "posicion": "DEF" },
+        { "nombre": "Blas Giunta", "camiseta": "8", "posicion": "MED" },
+        { "nombre": "Claudio Marangoni", "camiseta": "5", "posicion": "MED"},
+        { "nombre": "José Daniel Ponce", "camiseta": "10", "posicion": "MED" },
+        { "nombre": "Alfredo Graciani", "camiseta": "7", "posicion": "DEL" },
+        { "nombre": "Leonardo Itabel", "camiseta": "11", "posicion": "DEL" },
+        { "nombre": "Diego Latorre", "camiseta": "9", "posicion": "DEL" }
+      ],
+      "dt": "Alfio Basilr"
+    }
+}
